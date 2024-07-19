@@ -1,5 +1,5 @@
 # Analysis of Car Sales in Kazakhstan
-### Link to the report
+### [Link to the report](https://github.com/Alex972415/Analysis_of_Car_Sales_in_Kazakhstan/blob/main/Project_Auto_sales_english.ipynb)
 ### Dashboards developed during the project
 - Dashboard No. 1, reflecting the general situation on the market,
 - Dashboard No. 2, which provides information on sales in the light and commercial segments of cars
