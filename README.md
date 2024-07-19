@@ -1,9 +1,9 @@
 # Analysis of Car Sales in Kazakhstan
 ### [Link to the report](https://github.com/Alex972415/Analysis_of_Car_Sales_in_Kazakhstan/blob/main/Project_Auto_sales_english.ipynb)
 ### Dashboards developed during the project
-- Dashboard No. 1, reflecting the general situation on the market,
-- Dashboard No. 2, which provides information on sales in the light and commercial segments of cars
-- Dashboard No. 3, reflecting Mercur Auto's market position,
+- Dashboard No. 1, reflecting the general situation on the market, [link](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Eng_Salesauto_KZ/Dashboard1?publish=yes)
+- Dashboard No. 2, which provides information on sales in the light and commercial segments of cars, [link](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Eng_Salesauto_KZ/Dashboard2?publish=yes)
+- Dashboard No. 3, reflecting Mercur Auto's market position, [link](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Eng_Salesauto_KZ/Dashboard3?publish=yes)
 ### Task description:
 The dataset presents data on sales of new cars in Kazakhstan for 9 months of 2019. It is necessary to analyze the car market as a whole (capacity, dynamics, competitive environment) and assess the position of the Mercur Auto car center in the market: analysis of the external and internal environment of the car center.
 ### Tools
