@@ -1,4 +1,4 @@
-# Analysis_of_Car_Sales_in_Kazakhstan
+# Analysis of Car Sales in Kazakhstan
 ### Link to the report
 ### Dashboards developed during the project
 - Dashboard No. 1, reflecting the general situation on the market,
